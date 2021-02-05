@@ -9,7 +9,7 @@
 import Furniture from "@/components/Furniture";
 export default {
   components: {
-    Furniture
-  }
-}
+    Furniture,
+  },
+};
 </script>
